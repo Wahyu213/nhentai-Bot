@@ -1,0 +1,37 @@
+{
+  "name": "nhentai-telegram-bot",
+  "version": "0.0.1",
+  "description": "A simple Nodejs telegram app built on millions of broken APIs, instantly up and running (not always).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "axios": "^0.21.1",
+    "axios-retry": "^3.1.9",
+    "cheerio": "*",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.3",
+    "superagent": "^6.1.0",
+    "telegra.ph": "^1.0.1",
+    "telegraf": "4.3",
+    "telegraf-i18n": "^6.6.0",
+    "telegraph-uploader": "^2.0.0"
+  },
+  "engines": {
+    "node": "15.x"
+  },
+  "repository": {
+    "url": "https://github.com/iamdowner/nhentai-telegram-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "nhentai",
+    "telegram",
+    "bot"
+  ]
+}
