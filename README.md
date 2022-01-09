@@ -37,6 +37,3 @@
  * Get [telegra.ph token](https://telegra.ph/api#createAccount)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/nhentai-Bot)
-
-## Credits
-- ["UserLazy"](https://github.com/UserLazy)
