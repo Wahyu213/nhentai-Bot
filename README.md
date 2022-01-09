@@ -1,4 +1,4 @@
-# nhentai-Bot
+## nhentai-Bot
 
 # Features:
 * <details>
